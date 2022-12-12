@@ -1,0 +1,40 @@
+.customcss>h1 {
+    font-family: 'Monoton', cursive;
+    border-bottom: 5px solid red;
+    transition: 2s;
+}
+
+.forimg>img {
+    background-image: url('images/professional-firefighter-dressed-uniform-oxygen-mask-standing-fire-sparks-smoke-dark-background.jpg');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.customcss>p {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    transition: 2s;
+    text-decoration: overline solid 3px red;
+}
+
+.aboutus>h1 {
+    border-bottom: 3px solid red;
+    border-top: 3px solid red;
+    transition: 2s;
+}
+
+.aboutuss>h3 {
+    border-bottom: 3px solid red;
+    border-top: 3px solid red;
+    transition: 2s;
+}
+.div_aboutus {
+    margin-top: 20px;
+    background-image: url('images/fire.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
